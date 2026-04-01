@@ -62,7 +62,7 @@ All models achieved strong performance with **AUC ≈ 0.93**, showing excellent 
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/aldahmshi/Heart_Disease_ML_Project.git
+git clone https://github.com/aldahmashi/Heart_Disease_ML_Project.git
 2. Open the notebook in Jupyter or Google Colab  
 3. Run all cells in order  
 
